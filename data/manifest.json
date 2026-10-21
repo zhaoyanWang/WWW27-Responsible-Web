@@ -1,0 +1,92 @@
+{
+  "Goodreads": {
+    "train": {
+      "shape": [
+        1350,
+        954
+      ],
+      "nnz": 12367
+    },
+    "context": {
+      "shape": [
+        150,
+        954
+      ],
+      "nnz": 1134
+    },
+    "validation": {
+      "shape": [
+        150,
+        954
+      ],
+      "nnz": 357
+    },
+    "test": {
+      "shape": [
+        150,
+        954
+      ],
+      "nnz": 466
+    }
+  },
+  "ALB": {
+    "train": {
+      "shape": [
+        1208,
+        729
+      ],
+      "nnz": 11715
+    },
+    "context": {
+      "shape": [
+        136,
+        729
+      ],
+      "nnz": 790
+    },
+    "validation": {
+      "shape": [
+        136,
+        729
+      ],
+      "nnz": 276
+    },
+    "test": {
+      "shape": [
+        136,
+        729
+      ],
+      "nnz": 333
+    }
+  },
+  "ML-100K": {
+    "train": {
+      "shape": [
+        843,
+        1008
+      ],
+      "nnz": 6013
+    },
+    "context": {
+      "shape": [
+        95,
+        1008
+      ],
+      "nnz": 3515
+    },
+    "validation": {
+      "shape": [
+        95,
+        1008
+      ],
+      "nnz": 925
+    },
+    "test": {
+      "shape": [
+        95,
+        1008
+      ],
+      "nnz": 1154
+    }
+  }
+}
